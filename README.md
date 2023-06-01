@@ -1,1 +1,1 @@
-# netlify-serverless-github-logger
+# netlify-serverless-hello-world
